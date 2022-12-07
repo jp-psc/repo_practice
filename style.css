@@ -1,0 +1,52 @@
+<style type="text/css">
+		h1{
+			color: blue;
+			text-decoration: underline;
+		}
+		p{
+			font-size: 20px;
+		}
+		li{
+			font-style: italic;
+		}
+		body{
+			background-color: gray;
+		}
+		#jpList{
+			color: blue;
+		}
+		.favList{
+			text-decoration: underline;
+			color: purple;
+		}
+		#div1{
+			background-color: orangered;
+
+		}
+		#div2{
+			background-color: yellow;
+		}
+		#div1, #div2{
+			border: dashed;
+		}
+	</style>
+
+	<style type="text/css">
+		h1{
+			color: orange;
+			text-decoration: underline;
+		}
+		p{
+			color: green;
+		}
+		#div3{
+			background-color: deepskyblue;
+			
+		}
+		#div4{
+			background-color: seagreen;
+		}
+		#div3, #div4{
+			border: dashed;
+		}
+	</style>
